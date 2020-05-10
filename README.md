@@ -2,11 +2,13 @@
 
 CONTRIBUTING MEMBERS - 
 
-18BCE091 - Kaushil Mangaroliya
+Kaushil Mangaroliya -@kaushil268
 
-18BCE103 - Maharsh Shah
+Mitt Shah - @mittshah2
 
-18BCE121 - Mitt Shah
+Maharsh Shah
+
+
 
 This is a full guide and explaination of the the project named Movie Review Sentimental Analysis . 
 
